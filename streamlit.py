@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from sklearn.datasets import make_classification
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
