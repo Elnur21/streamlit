@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
